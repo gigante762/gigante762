@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp; Sou FullStack Develop e gosto de Educação\
+💡 &nbsp; Sou FullStack Developer e Entusiasta a Cientista da Computação\
 🎓&nbsp;Granduado em Análise e Desenvolvimento de Sistemas e Licenciando em Computação.\
 🌱 &nbsp;Sou apaixonado por tecnologia e docência, busco me integrar com comunidades que promovem o ensino da computação para todas as pessoas como o Scratch, Code.org, Code Brasil, Processing, Khan Academy e todo e qualquer projeto social que vise disseminar conhecimento.
 
