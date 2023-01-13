@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp; Sou estudante de Análise e Desenvolvimento de Sistemas e Licenciatura em Computação\
-🎓&nbsp;Granduando em Análise e Desenvolvimento de Sistemas e Licenciatura em Computação.\
+💡 &nbsp; Sou FullStack Develop e gosto de Educação\
+🎓&nbsp;Granduado em Análise e Desenvolvimento de Sistemas e Licenciando em Computação.\
 🌱 &nbsp;Sou apaixonado por tecnologia e docência, busco me integrar com comunidades que promovem o ensino da computação para todas as pessoas como o Scratch, Code.org, Code Brasil, Processing, Khan Academy e todo e qualquer projeto social que vise disseminar conhecimento.
 
 
